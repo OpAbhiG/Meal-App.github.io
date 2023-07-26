@@ -1,5 +1,6 @@
 # Meal-App
-Coding Ninjas Skill Test  Frontend Project Group 2
+
+Coding Ninjas Skill Test Frontend Project Group 2
 
 ![Screenshot 2023-07-26 141909](https://github.com/OpAbhiG/Meal-App/assets/110295591/a3f48247-f136-40ce-a830-a1b03b3e891f)
 
@@ -33,6 +34,8 @@ Html, CSS and JavaScript.
 Frontend test: Meals app
 Create a meal app to store and search for meals. Use ONLY vanilla javascript, no libraries or frameworks are allowed for Javascript (you can use any CSS framework like Bootstrap).
 
+
+Coding Ninjas Skill Test  Frontend Project Group 2
 Refer to the question doc for more details: Question Doc
 
 Your project will be evaluated on the following parameters -
