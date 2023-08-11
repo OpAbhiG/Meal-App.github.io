@@ -1,9 +1,9 @@
-# Meal-App
+## Meal-App
 
-Coding Ninjas Skill Test Frontend Project Group 2
+## Coding Ninjas Skill Test Frontend Project Group 2
 
 # website Host link
-(https://opabhig.github.io/Meal-App.github.io/)
+https://opabhig.github.io/Meal-App.github.io/
 
 ![Screenshot 2023-07-26 141909](https://github.com/OpAbhiG/Meal-App/assets/110295591/a3f48247-f136-40ce-a830-a1b03b3e891f)
 
@@ -12,19 +12,18 @@ Coding Ninjas Skill Test Frontend Project Group 2
 
 This is a Meals app Where you can know about your favourite meals. You can search for any Meal and see the details about that meal. You can also add it to your favourite list
 
-# Hosted link:-
-[git@github.com:OpAbhiG/Meal-App.git](https://github.com/OpAbhiG/Meal-App)
-
 # Video link:-
 https://www.dropbox.com/scl/fi/2hrg0n79xo19bcbum3baz/Meals-App-main-index.html-2023-07-26-14-09-15.mp4?rlkey=mg5r6sw88dpibwdxvjoi35hxv&dl=0
 
 # Language used:- 
-Html, CSS and JavaScript. 
+Html, CSS and JavaScript.
+
 # Functions:-
 1. User can see all the meals using the Search bar.
 2. Users can also search for meals by selecting by category.
 3. User can see the description of the recipe and its instruction.
 4. User can add meals to favourite list.
+
 # Features:- 
 1. Search for any meal from the API.
 2. Each search result of the meal should have a favourite button, clicking on which the meal should be added to the “Favourite list"
@@ -33,8 +32,7 @@ Html, CSS and JavaScript.
 5. In the Favourite page Display a list of all the favourite meals.
 6. Remove button: Each meal should have a remove button, clicking on it should remove that meal from the favourite list.
 
-
-Frontend test: Meals app
+# Frontend test: Meals app
 Create a meal app to store and search for meals. Use ONLY vanilla javascript, no libraries or frameworks are allowed for Javascript (you can use any CSS framework like Bootstrap).
 
 
